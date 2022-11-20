@@ -1,4 +1,4 @@
-# Curso de GOLANG
+# Meus codes e Comentários do Curso de GO
 ## Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA! By Otávio Gallego
 
 ### **O que você aprenderá:**
