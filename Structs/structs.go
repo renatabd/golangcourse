@@ -7,6 +7,7 @@ import "fmt"
 //Exemplo: salvar um usuário em uma variável
 //Sintaxe básica do struct: type usuario struct
 //Tem mais de uma maneira de declarar variaveis em struct
+//Não da pra fazer range em struct
 
 type usuario struct {
 	nome     string
@@ -41,5 +42,3 @@ func main() {
 	fmt.Println(user4)
 
 }
-
-
